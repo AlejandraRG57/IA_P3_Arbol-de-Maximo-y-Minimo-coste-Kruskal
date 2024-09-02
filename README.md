@@ -1,1 +1,0 @@
-# IA_P3_Arbol-de-Maximo-y-Minimo-coste-Kruskal
